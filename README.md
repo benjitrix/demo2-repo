@@ -2,3 +2,6 @@
 Create Demo2 repo
 Added this line to update demo2 repo
 Added this line in VS Studio to update demo2po
+
+# local development
+Modifying README.md file
